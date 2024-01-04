@@ -1,5 +1,4 @@
 {
-  "bucketName": "eng-backups",
-  "region": "ap-south-1",
-  "prefixPath": ""
+  "site": "docs.sharefable.com",
+  "prodBranch": "main"
 }

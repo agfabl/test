@@ -1,5 +1,5 @@
 {
-  "region": "eng-backups",
-  "bucketName": "ap-south-1",
+  "bucketName": "eng-backups",
+  "region": "ap-south-1",
   "prefixPath": ""
 }

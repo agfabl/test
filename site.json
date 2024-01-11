@@ -1,0 +1,5 @@
+{
+  "site": "test.acme.com",
+  "prodBranch": "main",
+  "originPath": "/blog"
+}
